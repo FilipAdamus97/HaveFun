@@ -34,6 +34,3 @@ async def on_message(message):
 # TODO(?) - storage for some links(?) make a database for storing stuff
 
 bot.run(HFToken())
-
-
-# GIT TEST COMMIT
